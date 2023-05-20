@@ -2,7 +2,7 @@
 <div align="left">
   <a href="https://github.com/dhiulysoares">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dhiulysoares&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiulysoares&layout=compact&langs_count=5&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiulysoares&layout=compact&langs_count=6&theme=radical"/>
 </div>
   
   ## Contate por:
